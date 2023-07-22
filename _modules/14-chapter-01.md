@@ -4,7 +4,7 @@ subtitle: Aug 16 - Aug 30
 ---
 
 Wed, Aug 16
-: Introductions and Parkinsons
+: Introductions and Parkinsons Activity
 
 Thu, Aug 17
 : **Standard 1.1**{: .label .label-yellow }

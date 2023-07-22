@@ -8,7 +8,7 @@ seo:
   name: Home
 ---
 
-# AP Statistics
+# AP Statistics with Mr. Chang
 
 WELCOME to AP Statistics, an introductory course to the concepts and tools for collecting, analyzing, and drawing conclusions from data. In this modern world driven by data, an understanding of data representations and data usage become ever more significant.
 
@@ -35,4 +35,4 @@ The exact schedule will be posted on the calendar: [stats.echa.ng/calendar/](/ca
 
 ## Online Notes
 
-I will regulary update [this website](https://stats.echa.ng) with notes from each topic that we encounter
+I will regulary update [stats-notes.echa.ng](https://stats-notes.echa.ng) with notes from each topic that we encounter
