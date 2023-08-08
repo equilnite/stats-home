@@ -111,8 +111,6 @@ When it’s time for a retake, a Google Form will be posted on classroom. If you
 
 No extended time will be given because of **tardiness and these deadlines will be enforced strictly**. If you miss an opportunity for assessment/reassessment completely, **you will keep the current grade that you have on that standard** (*including any 0's because you forgot to take a test or fill out a form*)
 
-## Resources
+## A Parting Thought
 
-Here are some resources you may find helpful if you feel behind / need more practice.
-
-- [Khan Academy](https://www.khanacademy.org/math/ap-statistics?authuser=0)
+Grades and penalties aren't the purpose of this course. I really just want you to learn. I want all of you to be successful here. AP Statistics is a college level course and these policies are here to make it so. If you weren't ready for these strict rules, you should seek me out for help as soon as you see yourself slipping off. If you fall behind, you will likely not recover in this class. I promise that if you put the effort and attention into this class during lessons, you will get a grade that you are satisfied with. The concepts that we encounter will be tough to understand on your own, but by doing the work that I assign, you will understand it so much better than just copying down answers and trying to follow a calculation that I did on the board.

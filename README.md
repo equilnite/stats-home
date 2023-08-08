@@ -24,6 +24,13 @@ These concepts and tools can be used to investigate questions such as:
 - Do students who get placed in their program of choice at BHS perform better than those who don’t?
 - Does smoking marijuana cause memory loss?
 
+## Where to find Mr. Chang
+
+- H204: Period 1, 2, 3, Lsunch
+- H217: Period 4
+- H208: Period 5 & 6
+- Afterschool room undetermined
+
 ## Outline and Topics
 
 The exact schedule will be posted on the calendar: [stats.echa.ng/calendar/](/calendar.md), but here are the topics you should expect to cover by quarter.
@@ -33,6 +40,10 @@ The exact schedule will be posted on the calendar: [stats.echa.ng/calendar/](/ca
 - Quarter 3: Chapters 8, 9, and 10 (Confidence Intervals, Hypothesis Tests, I nference for Two Populations)
 - Quarter 4: Chapters 11, 3, and 12 (Distributions of Categorical Data, Linear Regression)
 
-## Online Notes
+## Resources
 
-I will regulary update [stats-notes.echa.ng](https://stats-notes.echa.ng) with notes from each topic that we encounter
+I will regulary update [stats-notes.echa.ng](https://stats-notes.echa.ng) with notes from each topic that we encounter.
+
+Here are some resources you may find helpful if you feel behind / need more practice.
+
+- [Khan Academy](https://www.khanacademy.org/math/ap-statistics?authuser=0)

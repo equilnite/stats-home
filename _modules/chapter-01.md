@@ -1,6 +1,7 @@
 ---
-title: Chapter 1 - Exploring Data
-subtitle: Aug 16 - Aug 30
+title: Chapter 1
+name: Exploring Data
+time: Aug 16 - Aug 30
 ---
 
 Wed, Aug 16
@@ -8,7 +9,7 @@ Wed, Aug 16
 
 Thu, Aug 17
 : **Standard 1.1**{: .label .label-yellow }
-: [Syllabus](/syllabus.md)
+: [Syllabus](/syllabus/)
 : **CW pp. 3, 4**{: .label .label-purple } Data Tables 
 : **HW**{: .label .label-red } Syllabus Acknowledgement (Due 8/21)
 

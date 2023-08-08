@@ -6,6 +6,7 @@ description: Listing of the weekly agenda by chapter
 
 # Calendar
 
-{% for module in site.modules %}
+{% assign modules = site.modules | reverse %}
+{% for module in modules %}
 {{ module }}
 {% endfor %}
