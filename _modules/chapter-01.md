@@ -2,6 +2,7 @@
 title: Chapter 1
 name: Exploring Data
 time: Aug 16 - Aug 30
+order: 1
 ---
 
 Wed, Aug 16
@@ -13,15 +14,14 @@ Thu, Aug 17
 : **CW pp. 3, 4**{: .label .label-purple } Data Tables 
 : **HW**{: .label .label-red } Syllabus Acknowledgement (Due 8/21)
 
-
 Fri, Aug 18
 : **Standards 1.2, 1.3**{: .label .label-yellow }
 : **CW pp. 5, 6, 7**{: .label .label-purple } How are your favorite classes related?
 
 Mon, Aug 21
-: CYU p. 4
-: **CW pp. 5, 6, 7** Continued
-: CYU p. 7
+: **CYU p. 4**{: .label .label-purple }
+: **CW pp. 5, 6, 7**{: .label .label-purple } Continued
+: **CYU p. 7**{: .label .label-purple }
  
 Tue, Aug 22
 : **Standards 1.2, 1.3**{: .label .label-yellow }
@@ -47,14 +47,16 @@ Tue, Aug 29
 : **Group Quiz**{: .label .label-green }
 
 Wed, Aug 30
-: Review for Chapter 1 Test
+: Review
 
 Thu, Aug 31
-: Start Chapter 2
+: Practice
 
 Fri, Sep 1
 : **Chapter 1 Test**{: .label .label-green }
-: **Chapter 1 Retake on Wed, Sep 6**{: .label .label-red}
+: **Chapter 1 Retake on Friday, Sep 8**{: .label .label-red}
+
+
 
 
 <!-- 
