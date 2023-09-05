@@ -47,7 +47,7 @@ I am happy to take any appointments during lunch as long as you *email me the pr
 
 ### Mr. Mah's Office Hours
 
-Mr. Mah will have regular office hours... TBD.
+Mr. Mah will have regular office hours in H304 Wednesdays and Thursdays
 
 ## Grades
 

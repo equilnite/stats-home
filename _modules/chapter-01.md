@@ -1,7 +1,7 @@
 ---
 title: Chapter 1
 name: Exploring Data
-time: Aug 16 - Aug 30
+time: Aug 16 - Sep 1
 order: 1
 ---
 

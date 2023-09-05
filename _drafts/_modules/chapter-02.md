@@ -1,31 +1,42 @@
 ---
-title: Chapter 2 - Modeling Distributions of Data
+title: Chapter 2
+name: Modeling Distributions of Data
+time: Aug 16 - Aug 30
+order: 3
 ---
-
-Thu, Aug 31
-: **Standard 2.1**{: .label .label-yellow }
-: **CW pp. 3, 4**{: .label .label-purple } Where do I stand?
-
-Fri, Sep 1
-: **Standards 2.2, 2.3**{: .label .label-yellow }
-: **CW pp. 5, 6, 7**{: .label .label-purple } How Did I Do?
 
 Mon, Sep 4
 : **No Class**{: .label }  Labor Day Holiday
 
 Tue, Sep 5
-: **Group Quiz**{: .label .label-green }
+: **Standard 2.1**{: .label .label-yellow }
+: **CW pp. 3, 4**{: .label .label-purple } Where do I stand?
 
 Wed, Sep 6
-: **Test Retake**{: .label .label-green} Chapter 1 Retake
+: **Standards 2.2, 2.3**{: .label .label-yellow }
+: **CW pp. 5, 6, 7**{: .label .label-purple } How Did I Do?
 
 Thu, Sep 7
 : **Standard 2.4**{: .label .label-yellow }
 : **CW pp. 8, 9, 10**{: .label .label-purple } The Normal Distribution and the Empirical Rule
 
 Fri, Sep 8
+: **Test Retake**{: .label .label-green} Chapter 1 Retake
+
+Mon, Sep 11
 : **Standards 2.5, 2.6**{: .label .label-yellow }
 : **CW pp. 11, 12, 13**{: .label .label-purple } The Normal Distribution and the Empirical Rule
+
+
+
+
+
+Tue, Sep 5
+: **Group Quiz**{: .label .label-green }
+
+
+
+
 
 Mon, Sep 11
 : **Group Quiz**{: .label .label-green }
