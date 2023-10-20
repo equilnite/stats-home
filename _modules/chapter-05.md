@@ -31,11 +31,11 @@ Thu, Oct 19
 : **CW pp. 7, 8**{: .label .label-purple } Who will win the Last Banana?
 
 Fri, Oct 20
-: **Standard 5.4**{: .label .label-yellow }
-: **CW pp. 9 - 11**{: .label .label-purple } Cooking or baking? Day 1
+: **Group Quiz**{: .label .label-green } Section 5.1
 
 Mon, Oct 23
-: **Group Quiz**{: .label .label-green } Sections 5.1 - 5.2
+: **Standard 5.4**{: .label .label-yellow }
+: **CW pp. 9 - 11**{: .label .label-purple } Cooking or baking? Day 1
 
 Tue, Oct 24
 : **Standards 5.5, 5.6**{: .label .label-yellow }
@@ -46,7 +46,7 @@ Wed, Oct 25
 : **CW pp. 15 - 16**{: .label .label-purple } Pair of Aces or a pair of Kings?
 
 Thu, Oct 26
-: **Group Quiz**{: .label .label-green } Section 5.3
+: **Group Quiz**{: .label .label-green } Sections 5.2 - 5.3
 
 Fri, Oct 27
 : **No Class**{: .label } Secondary Break
