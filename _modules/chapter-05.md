@@ -56,4 +56,4 @@ Mon, Oct 30
 
 Tue, Oct 31
 : **Chapter 5 Test**{: .label .label-green }
-: **Chapter 5 Retake on Tue, 11/7**{: .label .label-red }
+: **Chapter 5 Retake after Fall Break**{: .label .label-red }
