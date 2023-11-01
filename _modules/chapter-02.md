@@ -48,7 +48,7 @@ Tue, Oct 10
 
 Wed, Oct 11
 : **Chapter 2 Test**{: .label .label-green }
-: **Chapter 2 Retake on Wed, 10/18**{: .label .label-red }
+: **Chapter 2 Retake after Fall Break**{: .label .label-red }
 
 
 <!-- Thu, Oct 12
