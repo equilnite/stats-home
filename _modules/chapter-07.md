@@ -1,8 +1,8 @@
 ---
 title: Chapter 7
 name: Sampling Distributions
-time: Nov 1 - Nov 17
-order: 5
+time: Nov 27 - Dec 12
+order: 6
 ---
 
 <!-- : **Standard 2.1**{: .label .label-yellow }
@@ -14,55 +14,80 @@ order: 5
 : **Chapter 2 Test**{: .label .label-green }
 : **Chapter 2 Retake on Wed, 10/18**{: .label .label-red } -->
 
-
 Mon, Nov 27
-: Introduction to Sampling Distributions Desmos
+: **Standard 7A**{: .label .label-yellow }
+: **CW p. 3**{: .label .label-purple } Introduction to Sampling Distributions Desmos
+: **CW p. 4**{: .label .label-purple } Parameter vs. Statistic (problems included in Desmos)
+: **HW p. 11**{: .label .label-red } Normal Distribution Calculation Review  (Due Mon, Dec 04)
 
 Tue, Nov 28
-: **Standards 7.1, 7.2, 7.3**{: .label .label-yellow }
-: **CW pp. 4, 5, 6, 7**{: .label .label-purple } Statistics vs. Parameters, Sampling Distributions, and Biased Estimators
+: **Standard 7B**{: .label .label-yellow }
+: **CW p. 4**{: .label .label-purple } Sampling Distributions
+: Go over Chapter 5 Test
+: Go over Chapter 6 Test
 
 Wed, Nov 29
-: **Standards 7.3, 7.4, 7.5, 7.6**{: .label .label-yellow }
-: **CW pp. 8, 9, 10**{: .label .label-purple } Sampling distribution of sample proportions
+: **Standards 7A, 7B, 7C**{: .label .label-yellow }
+: **CW pp. 5, 6, 7**{: .label .label-purple } Sampling Distributions, and Biased Estimators
 
 Thu, Nov 30
+: **Group Quiz**{: .label .label-green } Section 7.1
+: **Chapter 5 Retake**{: .label .label-red }
 
 Fri, Dec 1
+: Response Project Work Day
 
 Mon, Dec 4
+: **Due HW p. 11**{: .label .label-red } Normal Distribution Calculation Review 
+: **Standard 7C**{: .label .label-yellow }
+: **CW p.8**{: .label .label-purple } Sampling distribution of sample proportions
 
 Tue, Dec 5
+: **Standards 7C, 7D, 7E, 7F**{: .label .label-yellow }
+: **CW pp. 9, 10**{: .label .label-purple } Sampling distribution of sample proportions
 
 Wed, Dec 6
+: **Chapter 6 Retake**{: .label .label-red }
 
 Thu, Dec 7
+: **Standards 7D, 7F, 7G**{: .label .label-yellow }
+: **CW pp. 12, 13, 14**{: .label .label-purple } Sampling distribution of sample means
 
 Fri, Dec 8
+: **Response Bias Project**{: .label .label-red } Data is Due
+: **Group Quiz**{: .label .label-green } Sections 7.2-7.3
 
 Mon, Dec 11
+: Practice for Chapter 7 Test
 
 Tue, Dec 12
+: **Chapter 7 Test**{: .label .label-green }
+: **Chapter 7 Retake on Tues, Dec 19**{: .label .label-red }
 
 Wed, Dec 13
+: Response Project Work Day
 
 Thu, Dec 14
+: Go over Chapter 7 Test
+: Response Project Work Day
 
 Fri, Dec 15
+: **Response Bias Project**{: .label .label-red } Slideshow is Due
+: Response Project Work Day
 
 Mon, Dec 18
+: Response Project Work Day
 
 Tue, Dec 19
-
-Wed, Dec 20
-: **Finals: P1, P2**{: .label }
+: **Chapter 7 Retake**{: .label .label-red }
 
 Thu, Dec 21
-: **Finals: P3, P4**{: .label }
+: **Response Bias Project**{: .label .label-red } **Finals: P4**{: .label } Presentations
 
 Fri, Dec 22
-: **Finals: P5, P6**{: .label }
+: **Response Bias Project**{: .label .label-red } **Finals: P5, P6**{: .label } Presentations
 
+<!--
 
 Mon, Dec 25
 : **No Class**{: .label } Winter Break
@@ -93,6 +118,9 @@ Thu, Jan 4
 
 Fri, Jan 5
 : **No Class**{: .label } Winter Break
+
+-->
+<!--
 
 Mon, Jan 8
 

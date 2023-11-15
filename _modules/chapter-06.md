@@ -63,7 +63,7 @@ Thu, Nov 16
 
 Fri, Nov 17
 : **Chapter 6 Test**{: .label .label-green }
-: **Chapter 6 Retake on Fri, Dec 01**{: .label .label-red }
+: **Chapter 6 Retake on Wed, Dec 06**{: .label .label-red }
 
 Mon, Nov 20
 : **No Class**{: .label } Fall Break
