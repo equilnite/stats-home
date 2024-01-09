@@ -73,6 +73,7 @@ Tue, Jan 30
 
 Wed, Jan 31
 : **Chapter 8 Test**{: .label .label-green }
+: **Chapter 8 Retake on Wed, 2/14**{: .label .label-red }
 
 <!--
 Thu, Feb 1
