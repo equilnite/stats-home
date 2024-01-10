@@ -107,9 +107,24 @@ All assessments and their respective re-take will be announced at least 2 weeks 
 2. Accommodations:
     - Extended time: You may continue your test in {{ site.room }} afterschool (the day of).
 
-When it’s time for a retake, a Google Form will be posted on classroom. If you do not fill out the form by the deadline as indicated, you will not get a retake. **If you sign-up for the retake and decide to never take it, you will not be allowed to take the next re-take.**
-
 No extended time will be given because of **tardiness and these deadlines will be enforced strictly**. If you miss an opportunity for assessment/reassessment completely, **you will keep the current grade that you have on that standard** (*including any 0's because you forgot to take a test or fill out a form*)
+
+When it’s time for a retake, a Google Form will be posted on classroom. If you do not fill out the form by the deadline as indicated, you will not get a retake. 
+
+### Retakes
+
+All retakes will be in class. In order to fully take a retake for a certain chapter, I need to see 3 things out of your attention in class:
+
+1. The day before the first test, I expect to see all activities that we did in class together completed. I will check this group by group before the period ends on the day before the first test. If you’re absent, please email me with pictures of your packet.
+    - If you do not complete all activities, you will be allowed to retake half of the standards.
+
+2. When you are in class, you need to actively take notes and pay attention. 
+    - Each day, if it’s obvious that you are not paying attention, you will be allowed to retake one less standard.
+
+3. On the days for group quizzes, I will check to see how much you have completed. If you were asking questions and struggling, I won’t count incompletion against you. 
+    - However, if you were not doing the work, you will be allowed to retake one less standard.
+
+The retake system in this class is not to be abused. If you are not doing the work in class and expect for me to pick up after what you decided not to do, you face the consequences. You will do at least decent overall if you pay attention in class, ask questions, and grapple with the concepts during class ([see the expectations](/expectations.md)). The retake is there for you to show improvement, not as a way for you to sleep through, gossip during, and/or ignore lessons.
 
 ## A Parting Thought
 
