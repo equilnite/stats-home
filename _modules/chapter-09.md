@@ -52,17 +52,15 @@ Mon, Feb 12
 
 
 Tue, Feb 13
-: **Standard 9Fc**{: .label .label-yellow }
-: **CW pp. 17, 19**{: .label .label-purple } Inference for Means: Paired Data
-
+: Review and practice t-tests
 
 Wed, Feb 14
 : **Test Retake**{: .label .label-red} Chapter 8 Retake
 
 
 Thu, Feb 15
-: **Standard 9Dbc**{: .label .label-yellow }
-: **CW p. 20, 21**{: .label .label-purple } How powerful is EKHS math?
+: **Standard 9Fc**{: .label .label-yellow }
+: **CW pp. 17, 19**{: .label .label-purple } Inference for Means: Paired Data
 
 
 Fri, Feb 16
@@ -72,7 +70,8 @@ Mon, Feb 19
 : **No Class**{: .label } Presidents Day
 
 Tue, Feb 20
-: Practice
+: **Standard 9Dbc**{: .label .label-yellow }
+: **CW p. 20, 21**{: .label .label-purple } How powerful is EKHS math?
 
 Wed, Feb 21
 : **Group Quiz**{: .label .label-green } Cumulative Quiz
