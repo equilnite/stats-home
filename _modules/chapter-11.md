@@ -54,13 +54,14 @@ Tue, Mar 19
 : **Fire Drill**{: .label }
 : Practice
 
-
 Wed, Mar 20
-: Chapter 11 Test {: .label .label-green }
+: **Chapter 9 Retake**{: .label .label-red }
+
+Thu, Mar 21
+: **Chapter 11 Test**{: .label .label-green }
+: **Chapter 11 Retake on Thursday, 04/11**{: .label .label-red } -->
 
 <!--
-Thu, Mar 21
-
 
 Fri, Mar 22
 
