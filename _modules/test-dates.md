@@ -9,13 +9,13 @@ Wed, Mar 20
 Thu, Mar 21
 : **Chapter 11 Test**{: .label .label-green }
 
-Mon, Mar 25 <br>-<br> Thu, Mar 28
+Mon, Mar 25 <br>to<br> Thu, Mar 28
 : **Chapter 10 Retake**{: .label .label-red } Afterschool/lunch, sign-up only
 
 Thu, Apr 11
 : **Chapter 11 Retake**{: .label .label-red }
 
-Thu, Apr 12
+Fri, Apr 12
 : **Chapter 3 Test**{: .label .label-green }
 
 Thu, Apr 18
