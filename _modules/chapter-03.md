@@ -21,6 +21,7 @@ Fri, Mar 22
 Mon, Mar 25
 : **Standard 3A**{: .label .label-yellow }
 : **CW pp. 4**{: .label .label-purple }
+: **HW p. 4**{: .label .label-red } CYU
 
 Tue, Mar 26
 : **Group Quiz**{: .label .label-green } Section 3.1
@@ -28,15 +29,16 @@ Tue, Mar 26
 Wed, Mar 27
 : **Standard 3A**{: .label .label-yellow }
 : **CW pp. 6, 7, 8**{: .label .label-purple }
+: **HW p. 8**{: .label .label-red } CYU
 
 Thu, Mar 28
 : **Standard 3A**{: .label .label-yellow }
 : **CW pp. 9, 10**{: .label .label-purple }
+: **HW p. 12**{: .label .label-red } CYU # 1, 2, 3, 6
 
 Fri, Mar 29
 : **Standard 3A**{: .label .label-yellow }
 : **CW pp. 11, 13**{: .label .label-purple }
-
 
 Mon, Apr 1 <br>to<br> Fri, Apr 5
 : **No Class**{: .label } Spring Break
