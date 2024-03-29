@@ -54,7 +54,7 @@ Wed, Apr 10
 : **Group Quiz**{: .label .label-green } Cumulative
 
 Thu, Apr 11
-: **Test Retake**{: .label .label-red} Chapter 11 Retake
+: Review
 
 Fri, Apr 12
 : **Chapter 3 Test**{: .label .label-green }

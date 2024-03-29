@@ -59,7 +59,7 @@ Wed, Mar 20
 
 Thu, Mar 21
 : **Chapter 11 Test**{: .label .label-green }
-: **Chapter 11 Retake on Thursday, 04/11**{: .label .label-red } -->
+: **Chapter 11 Retake on Thursday, 04/18**{: .label .label-red } -->
 
 <!--
 
