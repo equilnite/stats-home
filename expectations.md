@@ -1,8 +1,19 @@
 ---
 layout: page
-title: Expectations
+title: Expectations for Work
 description: >-
-    Class-time expectations.
+    Expectations for Work.
+---
+
+# Standards for Statistical Practice
+{:.no_toc}
+
+## Table of contents
+{: .no_toc .text-delta }
+
+- TOC
+{:toc}
+
 ---
 
 ## Perserverence
@@ -26,7 +37,7 @@ Strive for:
 
 ## Collaboration
 
-Your groupmates are there for a reason and you have groupmates for a reason.
+Your groupmates are there for a reason and you have groupmates for a reason. You will sit in your assigned seats without exception throughout the AP curriculum.
 
 Ask your groupmates what they know that can help you.
 

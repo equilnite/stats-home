@@ -29,103 +29,105 @@ As mentioned below, you should proactively email me so that you can:
 
 *If you are not responsible with these materials, you will be at a disadvantage.*
 
-1. Textbook: *The Practice of Statistics, 5th edition* (Starnes, Tabor, Yates, Moore 2014)
-    - For practice, you should plan to bring your textbook to class. There will be no textbooks in the classroom for you to borrow from me. 
-2. During class, **packets** will be provided for you to write and take notes on. If you lose a packet, please **email me so that I have a copy for you the next day**. It is your own responsibility to have it on you at all times during class.
-3. **A graphing calculator** (*TI-83, TI-84, or TI-84 Plus are recommended*) will be essential for work in the 4th quarter and recommended doing calculations in the 2nd and 3rd quarter. People taking the AP exam need one. If you’re on a budget, you can acquire one by:
-    - checking one out from the library 
-    - looking on Craigslist or eBay to see if you can find a cheaper used one
+1. A **graphing calculator** (TI-83, TI-84, or TI-84 Plus are recommended) will be needed for work throughout the year. If you’re on a budget, you can acquire one by:
+    a. Any store like Target or Staples.
+    b. looking on Craigslist or eBay to see if you can find a cheaper used one
+2. **Textbook**: *The Practice of Statistics*, 5th edition (Starnes, Tabor, Yates, Moore 2014)
+    For practice, you should plan to bring your textbook to class. There will be no textbooks in the classroom for you to borrow from me. 
+3. During class, packets will be provided for you to write and take notes on. If you lose a packet, please email me so that I have a copy for you the next day. It is your own responsibility to have it on you at all times during class.
 
 
 ## Office Hours and Appointments
 
 The exact days and availability of office hours will be known later. 
 
-Due to my room assignments, I may not have any office hours.
-
-I am happy to take any appointments during lunch as long as you *email me the previous day*.
+I am happy to take any appointments during lunch as long as you *email me at least 2 days beforehand*.
 
 ### Mr. Mah's Office Hours
 
-Mr. Mah will have regular office hours in H304 Wednesdays and Thursdays
+TBA
 
 ## Grades
 
-Things that you will not be graded on are: homework, participation, behavior, warm-ups. When you have a hobby, you put in the time and effort to make you better at that hobby...school work should be the same. All these things are practice, active learning. In every unit you should ask yourself - **do you know the standard we are learning?** 
-
-**I use standards-based grading on a 4.0 scale. All assessments or rubrics will be graded on this scale. The correspondence to these grades are as follows:**
-
-| Numerical Score | Letter Grade | Meaning | Standard Description |
-|:---:|:---:|:---:|---|
-| 4 | A | Exceeding Standard | Able to do challenge problems, has especially good explanations, or can teach it |
-| 3 | B | Meeting Standard | Consistently shows understanding of standard. There may be small mistakes that don’t demonstrate a lack of understanding |
-| 2 | C | Approaching Standard | Shows understanding of part, but not all of the standard |
-| 1 | D | Beginning Standard | Attempted assignment, but was not able to show understanding of the standard |
-| 0 | F | Insufficient Evidence | Assessments not submitted or attempted - I don’t know if you can do it or not |
+Grades will be assigned on a traditional scale:
 
 ### Grading Scale
 
-**A**: ≥ 85%
+**A**: ≥ 90%  
+**B**: ≥ 80%  
+**C**: ≥ 70%  
+**D**: ≥ 60%  
+**F**: < 60%  
 
-**B**: ≥ 70%
+#### Components
 
-**C**: ≥ 50%
+**Homework and Classwork**: 25%
+*Homework: At most one problem set every week, will be provided a week in advance.*
+*Classwork: Ranges from warm-ups to exit tickets.*
 
-**D**: ≥ 30%
+**Quizzes**: 25%
+*At most one quiz a week, based on skills from classwork.*
+*The two worst quizzes will be dropped from your grade per semester.*
 
-**F**: < 30%
+**Tests**: 30%
+*One test per chapter, for a total of twelve tests within nine months.*
+*The single worst test will be dropped from your grade per semester.*
 
-
-### What is graded?
-
-You will have at least 2 chances to meet each standard. Things that may be graded will be: exit tickets, projects, quizzes/**tests**, and presentations. Every time something is going to be an opportunity to show you’ve met a standard I will EXPLICITLY tell you that the assessment is being graded. 
+**Semester Exam**: 20%
+*A cumulative exam of the material covered over the semester.*
 
 ### Keep up in class
 
-PLEASE advocate for yourself and get as much help as you need. I will likely not be available for regular office hours but am happy to arrange a meeting by appointment during lunch. Not much prior mathematical knowledge is required for success in this course, but it is a very challenging course that places high emphasis on your **ability to think logically and critically**, and express that thinking clearly in writing. It is also a course that **builds on itself** even more than most math classes, so staying current with your homework, and being consistent with your effort in general, is extremely important. If you don't keep up in class, you will struggle with future material.
+The amount of content in this course makes this course as **challenging or more challenging than taking Calculus**. You may struggle in Calculus because of your Algebra skills, but that is the main barrier for Calculus. Although AP Statistics is more accessible, it does not mean that it is easier than Calculus. In my personal experience, AP Statistics was harder than AP Calculus AB.
+
+Not much prior mathematical knowledge is required for success in this course, but it is a very challenging course that places high emphasis on your ability to think logically and critically, and express that thinking clearly in writing. It is also a course that builds on itself chapter by chapter. For example, Ch 8 requires you to be on top with knowledge and skills from Ch 2, 4, 7. And Ch 8, 9, 10, 11, and 12 keep introducing new, different methods to evaluate claims for different types of data. So staying current with your homework, and being consistent with your effort in general, is extremely important. If you don’t keep up in class, you will struggle with future material.
+
+**PLEASE advocate for yourself and get as much help as you need ASAP.** I am more than happy to help you when you immediately seek help, however if you are behind one to two weeks, it’s frustrating!!!!
+
+If you are behind, there is very little attention that I can give you to learn past material when we are past that point. We practically have one lesson a day on a new topic and if you don’t understand the basics of the previous material, there is little to no support I can help you with during class except to tell you to “look back in your packet.”
+
 
 ### Extra credit opportunities
 
 From time to time, there will be challenge problems on tests for extra credit that challenge you to apply your understanding.
 
-Also, we will have extra standards (not extra credit) where your grade will be bumped up for paying attention and being on task during class. These will likely happen at the end of each semester.
-
 ### Are there "extra" assignments?
 
-No, there will not be any extra assignments because you missed out on an assessment, did not follow along in class, or did not study enough throughout the semester. 
+No, there will not be any extra assignments because you missed out on an assessment, did not follow along in class, or did not study enough throughout the semester.
 
 If you run into any verifiable sickness or other situation that prevents you from doing your best, then we can talk about other ways for you to catch up.
 
 ## Assessment Policy
 
-All assessments and their respective re-take will be announced at least 2 weeks in advance. 
+The assessments will hold you up to the expectation that the AP exam also holds you up to.  
 
+The AP exam consists of:  
+- 40 Multiple Choice Questions for 90 minutes **(2.25 minutes per question)**
+- 6 Free Response Questions for 90 minutes **(15 minutes per question)**
+
+All assessments and their respective re-take will be announced at least 2 weeks in advance.  
 1. Missing the period of the test:
     - If you miss the period of the test but are present in school, you may come in afterschool (the day of) to {{ site.room }} to take the test.
     - If you miss the entire day, **first email me ASAP** (otherwise, I will not be expecting you) and you have only until the next school day to take it in {{ site.room }}.
-
 2. Accommodations:
     - Extended time: You may continue your test in {{ site.room }} afterschool (the day of).
 
 No extended time will be given because of **tardiness and these deadlines will be enforced strictly**. If you miss an opportunity for assessment/reassessment completely, **you will keep the current grade that you have on that standard** (*including any 0's because you forgot to take a test or fill out a form*)
 
-When it’s time for a retake, a Google Form will be posted on classroom. If you do not fill out the form by the deadline as indicated, you will not get a retake. 
 
 ### Retakes
 
-All retakes will be in class. In order to fully take a retake for a certain chapter, I need to see 3 things out of your attention in class:
+All retakes will be designated to be taken afterschool, during the Math 2 afterschool tutoring sessions.  
+1. You can retake up to 3 tests per semester.
+2. When it’s time for a retake, a Google Form will be posted on classroom. If you do not fill out the form by the deadline as indicated, you will not get a retake. 
+3. You much take the retake within 3 school days of the first day of the retake.
 
-1. The day before the first test, I expect to see all activities that we did in class together completed. I will check this group by group before the period ends on the day before the first test. If you’re absent, please email me with pictures of your packet.
-    - If you do not complete all activities, you will be allowed to retake half of the standards.
+The retake system in this class is not to be abused. If you are not doing the work in class and expect for me to pick up after what you decided not to do, you face the consequences. You will do at least decent overall if you pay attention in class, ask questions, and grapple with the concepts during class ([see the expectations](/expectations.md)). The retake is there for you to show improvement, not as a way for you to sleep through, gossip during, and/or ignore lessons.  
 
-2. When you are in class, you need to actively take notes and pay attention. 
-    - Each day, if it’s obvious that you are not paying attention, you will be allowed to retake one less standard.
-
-3. On the days for group quizzes, I will check to see how much you have completed. If you were asking questions and struggling, I won’t count incompletion against you. 
-    - However, if you were not doing the work, you will be allowed to retake one less standard.
-
-The retake system in this class is not to be abused. If you are not doing the work in class and expect for me to pick up after what you decided not to do, you face the consequences. You will do at least decent overall if you pay attention in class, ask questions, and grapple with the concepts during class ([see the expectations](/expectations.md)). The retake is there for you to show improvement, not as a way for you to sleep through, gossip during, and/or ignore lessons.
+Relying on retakes means that you are behind, and students who have fell behind in the past in this course have not enjoyed their academic experience in the course.
 
 ## A Parting Thought
 
-Grades and penalties aren't the purpose of this course. I really just want you to learn. I want all of you to be successful here. AP Statistics is a college level course and these policies are here to make it so. If you weren't ready for these strict rules, you should seek me out for help as soon as you see yourself slipping off. If you fall behind, you will likely not recover in this class. I promise that if you put the effort and attention into this class during lessons, you will get a grade that you are satisfied with. The concepts that we encounter will be tough to understand on your own, but by doing the work that I assign, you will understand it so much better than just copying down answers and trying to follow a calculation that I did on the board.
+Grades and penalties aren't the purpose of this course. I really just want you to learn. I want all of you to be successful here. AP Statistics is a college level course and these policies are here to make it so. If you weren't ready for these strict rules, you should seek me out for help as soon as you see yourself slipping off. 
+
+If you fall behind, you will likely not recover in this class. I promise that if you put the effort and attention into this class during lessons, you will get a grade that you are satisfied with. The concepts that we encounter will be tough to understand on your own, but by doing the work that I assign, you will understand it so much better than just copying down answers and trying to follow a calculation that I did on the board.

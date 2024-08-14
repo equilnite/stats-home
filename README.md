@@ -10,7 +10,7 @@ seo:
 
 # AP Statistics with Mr. Chang
 
-WELCOME to AP Statistics, an introductory course to the concepts and tools for collecting, analyzing, and drawing conclusions from data. In this modern world driven by data, an understanding of data representations and data usage become ever more significant.
+WELCOME to AP Statistics, an introductory course to the *traditional* statistical concepts and tools for collecting, analyzing, and drawing conclusions from data along with their probabalistic underpinnings. In this modern world driven by data, an understanding of data representations and data usage become ever more significant.
 
 These concepts and tools can be used to investigate questions such as:
 
@@ -24,26 +24,28 @@ These concepts and tools can be used to investigate questions such as:
 - Do students who get placed in their program of choice at BHS perform better than those who don’t?
 - Does smoking marijuana cause memory loss?
 
-## Where to find Mr. Chang
+Or simpler questions such as:
 
-- H204: Period 1, 2, 3, Lsunch
-- H217: Period 4
-- H208: Period 5 & 6
-- Afterschool room undetermined
+- Is gambling worth it?
+- Has a game been rigged?
+- Has a sports team's performance changed?
 
 ## Outline and Topics
 
 The exact schedule will be posted on the calendar: [stats.echa.ng/calendar/](/calendar.md), but here are the topics you should expect to cover by quarter.
 
-- Quarter 1: Chapters 4, 1, and 2 (Designing Studies, Exploring Data, and Modeling Distributions of Data)
+- Quarter 1: Chapters 1, 2, and 4 (Exploring Data, Modeling Distributions of Data, and Designing Studies)
 - Quarter 2: Chapters 5, 6, and 7 (Probability, Random Variables, Sampling Distributions)
 - Quarter 3: Chapters 8, 9, and 10 (Confidence Intervals, Hypothesis Tests, I nference for Two Populations)
 - Quarter 4: Chapters 11, 3, and 12 (Distributions of Categorical Data, Linear Regression)
 
 ## Resources
 
-I will regulary update [stats-notes.echa.ng](https://stats-notes.echa.ng) with notes from each topic that we encounter.
 
-Here are some resources you may find helpful if you feel behind / need more practice.
+DO NOT USE GOOGLE FOR EVERYTHING. There are many ways to do statistics, and you are learning a specific way to do that. 
+
+Your textbook is your main resource. Things that you find on the internet, unless specifically geared towards AP Statistics, may not be the correct way to do it. There are many ways to do statistics, and AP Statistics is looking for a specific approach.
+
+- I will regularly update [stats-notes.echa.ng](https://stats-notes.echa.ng) with notes from each topic that we encounter.
 
 - [Khan Academy](https://www.khanacademy.org/math/ap-statistics?authuser=0)

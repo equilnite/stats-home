@@ -17,7 +17,7 @@ title: AP Statistics
 tagline: AP Statistics with Mr. Chang
 description: A course website with the schedule for Mr. Chang's AP Statistics
 author: Mr. Chang
-baseurl: '/' # the subpath of your site, e.g. /blog
+baseurl: '' # the subpath of your site, e.g. /blog
 url: 'https://stats.echa.ng' # the base hostname & protocol for your site, e.g. http://example.com
 exclude: ["Gemfile", "Gemfile.lock", "LICENSE"]
 room: H204
