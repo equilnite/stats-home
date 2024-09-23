@@ -28,7 +28,7 @@ Tue. 09/24
 : **CW pp. 17, 18, 19, 20**{: .label .label-purple } 
 
 Wed. 09/25	
-: **CW pp. 21, 22**
+: **CW pp. 21, 22**{: .label .label-purple } 
 
 Thu. 09/26	Back to School night
 : Practice
@@ -37,23 +37,40 @@ Fri. 09/27
 : Practice
 	
 Mon. 09/30	
-: Practice
+: AP Classroom Practice
 
 Tue. 10/01	
-: Practice
+: AP Classroom Practice
 
 Wed. 10/02	
 : **Chapter 4 Test**{: .label .label-green}
 
 Thu. 10/03	
 : Study for retake(s)
+: AP Classroom Practice
+
 
 Fri. 10/04	
 : Study for retake(s)
+: AP Classroom Practice
+
 	
 	
-Mon. 10/07	No school for students
-Tue. 10/08	Chapter 1 Retake
-Wed. 10/09	Chapter 2 Retake
-Thu. 10/10	Chapter 4 Retake
-Fri. 10/11	End of First Quarter
+Mon. 10/07	
+: **No school for students**{: .label}
+
+Tue. 10/08	
+: Chapter 1 Retake
+: AP Classroom Practice
+
+
+Wed. 10/09	
+: Chapter 2 Retake
+: AP Classroom Practice
+
+Thu. 10/10	
+: Chapter 4 Retake
+: AP Classroom Practice
+
+Fri. 10/11	
+: **End of First Quarter**{: .label}
