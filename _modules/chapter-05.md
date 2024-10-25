@@ -31,22 +31,25 @@ Thu. 10/17
 : **CW pp. 9 - 11**{: .label .label-purple } Cooking or baking? Day 1
 
 Fri. 10/18	
-: **CW pp. 12 - 14**{: .label .label-purple } Cooking or baking? Day 2
+
 	
 Mon. 10/21
-: **CW pp. 15 - 16**{: .label .label-purple } Pair of Aces or a pair of Kings?
+: **CW pp. 12 - 14**{: .label .label-purple } Cooking or baking? Day 2
+
 
 Tue. 10/22
-: **Group Quiz**{: .label .label-green } Sections 5.2 - 5.3
+: **CW pp. 15 - 16**{: .label .label-purple } Pair of Aces or a pair of Kings?
+
 
 Wed. 10/23
-: **Chapter 6**{: .label } **CW pp. 3, 4**{: .label .label-purple } How many children are in your family?
+: **Group Quiz**{: .label .label-green } Sections 5.2 - 5.3
 
 Thu. 10/24
-: **Chapter 6**{: .label } **CW pp. 5, 6**{: .label .label-purple } How much do you get paid?
+: **Chapter 6**{: .label } **CW pp. 2, 3**{: .label .label-purple } How many children are in your family?
+
 
 Fri. 10/25	
-: **Chapter 6**{: .label } **CW pp. 7, 8**{: .label .label-purple } Is it time for a raise?
+: **Chapter 6**{: .label } **CW pp. 4, 5**{: .label .label-purple } How much do you get paid?
 	
 Mon. 10/28	
 : Practice
