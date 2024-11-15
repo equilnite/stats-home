@@ -1,7 +1,7 @@
 ---
 title: Chapter 6
 name: Random Variables
-time: Nov 1 - Nov 17
+time: Oct 24 - Nov 20
 order: 5
 ---
 
@@ -49,9 +49,6 @@ Tue. 11/12
 Wed. 11/13
 : **Group Quiz**{: .label .label-green } Section 6.3
 : Chapter 5 Retake
-
-Wed. 11/20
-: **Chapter 6 Test**{: .label .label-green }
 
 <!-- 
 Thu. 11/14	
