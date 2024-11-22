@@ -39,13 +39,13 @@ As mentioned below, you should proactively email me so that you can:
 
 ## Office Hours and Appointments
 
-The exact days and availability of office hours will be known later. 
+Office hours are afterschool: Monday in H217 and Wednesday in H206
 
 I am happy to take any appointments during lunch as long as you *email me at least 2 days beforehand*.
 
 ### Mr. Mah's Office Hours
 
-TBA
+Mr. Mah is normally either in H304 or H217 for his office hours most days afterschool.
 
 ## Grades
 
