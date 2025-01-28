@@ -1,7 +1,7 @@
 ---
-title: Chapter 8
-name: Estimating with Confidence
-time: Jan 06 - Jan 22
+title: Chapter 9
+name: Testing a Claim
+time: Jan 23 - Feb 12
 order: 8
 ---
 
@@ -15,85 +15,63 @@ order: 8
 : **Chapter 2 Retake on Wed, 10/18**{: .label .label-red } -->
 
 
-Mon. 01/06	
-: **CW pp. 2, 3**{: .label .label-purple } Pollstering -- Introduction to Confidence Intervals
-
-Tue. 01/07	
-: **CW pp. 4, 6**{: .label .label-purple } Pollstering -- Introduction to Confidence Levels
-
-Wed. 01/08	
-: **Group Quiz**{: .label .label-green } Section 8.1
-
-Thu. 01/09	
-: **CW pp. 7, 8, 9**{: .label .label-purple } Flint Water Crisis -- One-Sample z-Interval
-
-Fri. 01/10
-: **CW pp. 10, 11, 12, 13**{: .label .label-purple } Putting it all together -- 4-step process
-	
-Mon. 01/13
-: **Group Quiz**{: .label .label-green } Section 8.2
-
-Tue. 01/14
-: **CW p. 14**{: .label .label-purple } Sample Size Calculations
-
-Wed. 01/15	
-: **CW pp. 15, 16**{: .label .label-purple } How much does an Oreo weight? -- One-sample t-interval
-
-Thu. 01/16	
-: **CW pp. 17, 18**{: .label .label-purple } t-procedure critical values and Assessing Normality for Means
-
-Fri. 01/17
-: **CW pp. 19**{: .label .label-purple } How many states can you name? -- One-sample t-interval example
-	
-	
-Mon. 01/20	No School, MLK Birthday
-
-Tue. 01/21	
-: Study/review
-: **Chapter 8 Problem Set Due**{: .label .label-red }
-
-Wed. 01/22	
-: **Chapter 8 Test**{: .label .label-green }
-
-<!--
-Mon. 01/13
+Thu. 01/23	
 : **CW p. 2, 3**{: .label .label-purple } Bubble Basketball Day 1
 
-Tue. 01/14	
-: **CW p. 4, 5, 6, 7**{: .label .label-purple } Bubble Basketball Day 2
-
-Wed. 01/15
-
-
-Thu. 01/16	
-Fri. 01/17	
-	
-	
-Mon. 01/20	No School, MLK Birthday
-Tue. 01/21	
-Wed. 01/22	
-Thu. 01/23	
 Fri. 01/24	
+: **CW p. 4, 5, 6, 7**{: .label .label-purple } Bubble Basketball Day 2
 	
 	
-Mon. 01/27	No School for students
-Tue. 01/28	
+Mon. 01/27	
+: **No School**{: .label } Staff PD Day
+
+Tue. 01/28
+: **CW p. 10, 11**{: .label .label-purple } Should Rockford change it's water?
+: **Able to do #1-3, 10a-d, 11a-c**{: .label .label-yellow }
+
 Wed. 01/29	
+: **Group Quiz**{: .label .label-green } Section 9.1
+
 Thu. 01/30	
+: **CW p. 12-15**{: .label .label-purple } 1-Sample z-Test
+: **Able to do #6-7**{: .label .label-yellow }
+
 Fri. 01/31	
-	
+: **CW p. 17-18**{: .label .label-purple } Two-sided Tests
+: **Able to do #8-9**{: .label .label-yellow }
 	
 Mon. 02/03	
-Tue. 02/04	
+: **CW p. 24, 25**{: .label .label-purple } How powerful is EKHS math? Power
+: **Able to do #10, 11, 12**{: .label .label-yellow }
+
+Tue. 02/04
+: **CW p. 19-21**{: .label .label-purple } Are you getting enough sleep? One-sample t-test
+: **Able to do #13, 14, 15**{: .label .label-yellow }
+
 Wed. 02/05	
-Thu. 02/06	Open House
+: **CW p. 23**{: .label .label-purple } Sudoku experiment, Paired t-test
+
+Thu. 02/06	
+: **Open House**{: .label }
+: **Group Quiz**{: .label .label-green } Section 9.2
+: Topics are lessons from 1/30 to 2/03
+
 Fri. 02/07	
-	
+: Review, homework work time.
 	
 Mon. 02/10	
-Tue. 02/11	
-Wed. 02/12	
+: **Group Quiz**{: .label .label-green } Section 9.3
+: Topics are lessons from 2/04 to 2/05 + power!!
+
+Tue. 02/11
+: **Chapter 9 Problem Set Due**{: .label .label-red } 
+
+Wed. 02/12
+: **Chapter 9 Test**{: .label .label-green }
+
 Thu. 02/13	
+: **Test Retake**{: .label .label-red} Chapter 8 Retake
+
 Fri. 02/14	No School, Lincoln's Birthday
 	
 	
