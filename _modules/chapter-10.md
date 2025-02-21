@@ -19,9 +19,11 @@ Mon. 02/17
 
 Tue. 02/18	
 : Lesson 10.1
+: **Able to do p.1**{: .label .label-yellow }
 
 Wed. 02/19	
 : Lesson 10.2
+: **Able to do p.2**{: .label .label-yellow }
 
 Thu. 02/20	
 : **Senior Assembly 6th period**{: .label }
@@ -32,9 +34,11 @@ Fri. 02/21
 	
 Mon. 02/24	
 : Lesson 10.3
+: **Able to do pp. 3, 5**{: .label .label-yellow }
 
 Tue. 02/25	
 : Lesson 10.4
+: **Able to do pp. 4, 6**{: .label .label-yellow }
 
 Wed. 02/26	
 : Practice
