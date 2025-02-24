@@ -38,14 +38,17 @@ Mon. 02/24
 
 Tue. 02/25	
 : Lesson 10.4
+: **Edpuzzle**{: .label .label-red} Edpuzzle due (both videos)
 : **Able to do pp. 4, 6**{: .label .label-yellow }
 
 Wed. 02/26	
 : Practice
-: **Test Retake**{: .label .label-red} Chapter 9 Retake
+: **Quiz Due**{: .label .label-red} p.1 of 10.1 and p.2 of 10.2 quizzes
+: **No office hours today**{: .label } But you can still see Mr. Mah!
 
 Thu. 02/27	
 : Review
+: **Test Retake**{: .label .label-red} Chapter 9 Retake
 : **Chapter 10 Problem Set Due**{: .label .label-red } 
 
 Fri. 02/28	
