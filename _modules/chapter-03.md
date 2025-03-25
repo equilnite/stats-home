@@ -46,10 +46,10 @@ Wed. 03/26
 : **Able to do everything**{: .label .label-yellow }
 
 Thu. 03/27
-: Project work time
+: **Group Quiz**{: .label .label-green } Section 3.2
 
 Fri. 03/28
-: **Group Quiz**{: .label .label-green } Section 3.2
+: Project work time
 : **Project Part A Due**{: .label .label-red }
 
 Mon. 03/31<br>to<br>Fri. 04/04	
