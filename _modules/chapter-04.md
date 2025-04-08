@@ -30,7 +30,8 @@ Tue. 09/24
 Wed. 09/25	
 : **CW pp. 21, 22**{: .label .label-purple } 
 
-Thu. 09/26	Back to School night
+Thu. 09/26	
+: **Back to School night**{: .label}
 : Practice
 
 Fri. 09/27	

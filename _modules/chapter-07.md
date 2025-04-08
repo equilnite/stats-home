@@ -98,5 +98,5 @@ Thu. 12/19
 : **P3, 4 Final**{: .label .label-red }
 
 Fri. 12/20	
-: **End of first semester**{ : .label }
+: **End of first semester**{: .label }
 : **P5, 6 Final**{: .label .label-red }

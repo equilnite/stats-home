@@ -47,7 +47,7 @@ Fri. 01/17
 	
 	
 Mon. 01/20	
-: **No School**{ : .label } MLK Birthday
+: **No School**{: .label } MLK Birthday
 
 Tue. 01/21	
 : Study/review
