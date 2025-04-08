@@ -46,7 +46,8 @@ Fri. 01/17
 : **CW pp. 19**{: .label .label-purple } How many states can you name? -- One-sample t-interval example
 	
 	
-Mon. 01/20	No School, MLK Birthday
+Mon. 01/20	
+: **No School**{ : .label } MLK Birthday
 
 Tue. 01/21	
 : Study/review

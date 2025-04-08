@@ -37,9 +37,3 @@ Thu. 09/12
 Fri. 09/13	
 : **Chapter 2 Test**{: .label .label-green }
 	
-Mon. 09/16
-Tue. 09/17	
-Wed. 09/18	
-Thu. 09/19	
-Fri. 09/20	
-

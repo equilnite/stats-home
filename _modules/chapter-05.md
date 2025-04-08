@@ -31,7 +31,7 @@ Thu. 10/17
 : **CW pp. 9 - 11**{: .label .label-purple } Cooking or baking? Day 1
 
 Fri. 10/18	
-
+: Practice
 	
 Mon. 10/21
 : **CW pp. 12 - 14**{: .label .label-purple } Cooking or baking? Day 2
@@ -39,7 +39,6 @@ Mon. 10/21
 
 Tue. 10/22
 : **CW pp. 15 - 16**{: .label .label-purple } Pair of Aces or a pair of Kings?
-
 
 Wed. 10/23
 : **Group Quiz**{: .label .label-green } Sections 5.2 - 5.3

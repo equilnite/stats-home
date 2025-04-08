@@ -73,5 +73,5 @@ Thu. 02/13
 : **Test Retake**{: .label .label-red} Chapter 8 Retake
 
 Fri. 02/14	
-: No School, Lincoln's Birthday
+: **No School**{ : .label } Lincoln's Birthday
 	

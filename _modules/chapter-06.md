@@ -21,7 +21,8 @@ Thu. 10/31
 
 
 
-Fri. 11/01	No School
+Fri. 11/01	
+: **No School**{ : .label }
 	
 	
 Mon. 11/04
@@ -41,7 +42,7 @@ Fri. 11/08
 : **CW pp. 16, 17, 18**{: .label .label-purple } Binomial Calculations
 	
 Mon. 11/11	
-: No School, Veteran's Day
+: **No School**{ : .label } Veteran's Day
 
 Tue. 11/12	
 : **CW pp. 19, 20, 21**{: .label .label-purple } Geometric Random Variables
