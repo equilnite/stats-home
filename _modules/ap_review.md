@@ -6,6 +6,7 @@ order: 14
 ---
 
 Thu. 04/17
+: **Chapter 11 Retake**{: .label .label-red }
 : Chapter 8 Concept Review
 
 Fri. 04/18
@@ -21,6 +22,7 @@ Wed. 04/23
 : Chapter 8 & 9 FRQ Practice
 
 Thu. 04/24
+: **Chapter 3 Retake**{: .label .label-red }
 : Chapter 3 FRQ Practice
 	
 Fri. 04/25
@@ -41,6 +43,7 @@ Thu. 05/01
 : FRQ Focal exam (Chapter 8, 9, 11, 3)
 
 Fri. 05/02
+: **Chapter 12 Corrections Due**{: .label .label-red }
 : Probability practice
 : Conditions run-down
 	
