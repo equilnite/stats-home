@@ -37,10 +37,10 @@ Tue. 04/29
 : Review
 
 Wed. 04/30	
-: MCQ Focal exam (Chapter 8, 9, 11, 3)
+: **MCQ Focal exam (Chapter 8, 9, 11, 3)**{: .label .label-red }
 
 Thu. 05/01
-: FRQ Focal exam (Chapter 8, 9, 11, 3)
+: **FRQ Focal exam (Chapter 8, 9, 11, 3)**{: .label .label-red }
 
 Fri. 05/02
 : **Chapter 12 Corrections Due**{: .label .label-red }
