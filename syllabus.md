@@ -16,118 +16,160 @@ description: >-
 
 ---
 
-## Contact me
+## Introduction
 
-Email me at `edwardchang@berkeley.net` with any concerns that you have. I will try to reply ASAP during working hours.
+AP Statistics is an introductory course to the *traditional* concepts and tools for collecting, analyzing, and drawing conclusions from data. In this modern world driven by data, an understanding of data representations and decrypting others’ analyses of data become ever more important.
 
-As mentioned below, you should proactively email me so that you can:
-1. Have anything that you lost the next day
-2. Making appointments for taking a test in which you missed the entire day of school for.
-3. Any appointments that that you need for something during lunch time.
+These concepts and tools can be used to investigate questions such as:
 
-## Materials Needed
+- Does the death penalty prevent murders from occurring?
+- How do voters feel about a current ballot issue or presidential candidates?
+- How effective is a new treatment for patients with AIDS?
+- Do students in smaller classes learn more than those in larger classes?
+- To what extent are humans causing global warming?
+- Do children who are exposed to lead (in paint, etc.) become more violent?
+- Do abstinence education programs cause teens to have sex less frequently?
+- Do students who get placed in their program of choice at BHS perform better than those who don’t?
+- Does smoking marijuana cause memory loss?
 
-*If you are not responsible with these materials, you will be at a disadvantage.*
+### OUTLINE OF COURSE OBJECTIVES AND TOPICS: 
 
-1. A **graphing calculator** (TI-83, TI-84, or TI-84 Plus are recommended) will be needed for work throughout the year. If you’re on a budget, you can acquire one by:
-    a. Any store like Target or Staples.
-    b. looking on Craigslist or eBay to see if you can find a cheaper used one
-2. **Textbook**: *The Practice of Statistics*, 5th edition (Starnes, Tabor, Yates, Moore 2014)
-    For practice, you should plan to bring your textbook to class. There will be no textbooks in the classroom for you to borrow from me. 
-3. During class, packets will be provided for you to write and take notes on. If you lose a packet, please email me so that I have a copy for you the next day. It is your own responsibility to have it on you at all times during class.
+Here are the topics you should expect to cover by quarter.
 
+- Quarter 1: Chapters 1, 4, 2 (Exploring Data, Designing Studies, and Modeling Distributions of Data)
+- Quarter 2: Chapters 5, 6, and 7 (Probability, Random Variables, Sampling Distributions)
+- Quarter 3: Chapters 8, 9, and 10 (Confidence Intervals, Hypothesis Tests, Inference for Two Populations)
+- Quarter 4: Chapters 11, 3, and 12 (Distributions of Categorical Data, Linear Regression)
 
-## Office Hours and Appointments
+### MATERIALS NEEDED
 
-Office hours are afterschool: Monday in H217 and Wednesday in H206
+1.	**A graphing calculator** (TI-83, TI-84, or TI-84 Plus are recommended) will be needed for work throughout the year. 
+    a.	It’s recommended that you get one for yourself. Second-hand calculators are very easy and cheap to find (Facebook Marketplace, eBay, etc.)
+    b.	You can also check out a graphing calculator from the library.
+2.	**Textbook**: *The Practice of Statistics*, 5th edition (Starnes, Tabor, Yates, Moore 2014)
+3.	During class, packets will be provided for you to write and take notes on. If you lose a packet, please email me so that I have a copy for you the next day. It is your own responsibility to have it on you at all times during class.
+    If you are not responsible with these materials, you will be at a disadvantage.
 
-I am happy to take any appointments during lunch as long as you *email me at least 2 days beforehand*.
+### RESOURCES
 
-### Mr. Mah's Office Hours
-
-Mr. Mah is normally either in H304 or H217 for his office hours most days afterschool.
-
-## Grades
+- **DO NOT USE GOOGLE FOR EVERYTHING, especially depending on AI**. There are many ways to do statistics, and *you are learning a specific way to do statistics* by being in this class.
+- **Your textbook is your main resource**. Things that you find on the internet, unless specifically geared towards AP Statistics, may not be the correct way to do it.
+- I will regularly update [stats-notes.echa.ng] with notes from each topic that we encounter.
+- Students in the past have found office hours and Khan Academy really helpful
+ 
+ 
+## GRADES
 
 Grades will be assigned on a traditional scale:
 
-### Grading Scale
+**A**: ≥ 90%	
 
-**A**: ≥ 90%  
-**B**: ≥ 80%  
-**C**: ≥ 70%  
-**D**: ≥ 60%  
-**F**: < 60%  
+**B**: ≥ 80%	
 
-#### Components
+**C**: ≥ 70%	
 
-**Homework and Classwork**: 25%
-*Homework: At most one problem set every week, will be provided a week in advance.*
-*Classwork: Ranges from warm-ups to exit tickets.*
+**D**: ≥ 60%	
 
-**Quizzes**: 25%
-*At most one quiz a week, based on skills from classwork.*
-*The two worst quizzes will be dropped from your grade per semester.*
+**F**: < 60%
 
-**Tests**: 30%
-*One test per chapter, for a total of twelve tests within nine months.*
-*The single worst test will be dropped from your grade per semester.*
+### Components
 
-**Semester Exam**: 20%
-*A cumulative exam of the material covered over the semester.*
+**Homework and Classwork: 30%**
+
+> Homework: Assigned from back of packet; problems due after the completion of each packet.
+>
+> Classwork: Checks for work assigned for class time and random packet checks for completion of notes.
+>
+> It is your responsibility to monitor the scores put in Infinite Campus. If you miss the day of a packet check or work, you are expected to email / talk to Chang immediately and show her the relevant completed pages in the packet.
+
+**Quizzes: 15%**
+
+> At most one quiz a week, based on skills from classwork. The worst quiz will be dropped from your grade per semester.
+
+**Tests: 35%**
+
+> One test per chapter, for a total of twelve tests within eight months. The single worst test will be dropped from your grade per semester.
+
+**Semester Exam: 20%**
+
+> A cumulative exam of the material covered over the semester. 
+Are there “extra” assignments?
+>
+> There are no extra assignments for you to do to make up a grade or to raise your grade.
+
 
 ### Keep up in class
 
-The amount of content in this course makes this course as **challenging or more challenging than taking Calculus**. You may struggle in Calculus because of your Algebra skills, but that is the main barrier for Calculus. Although AP Statistics is more accessible, it does not mean that it is easier than Calculus. In my personal experience, AP Statistics was harder than AP Calculus AB.
+The *amount of content* in this course makes this course as *challenging* as taking Calculus. You may find Calculus harder because of your Algebra skills, but that is the main barrier for Calculus. Although AP Statistics is more accessible, it does not mean that it is easier than Calculus. 
 
-Not much prior mathematical knowledge is required for success in this course, but it is a very challenging course that places high emphasis on your ability to think logically and critically, and express that thinking clearly in writing. It is also a course that builds on itself chapter by chapter. For example, Ch 8 requires you to be on top with knowledge and skills from Ch 2, 4, 7. And Ch 8, 9, 10, 11, and 12 keep introducing new, different methods to evaluate claims for different types of data. So staying current with your homework, and being consistent with your effort in general, is extremely important. If you don’t keep up in class, you will struggle with future material.
+**Whether one course is more challenging than the other depends on the person!**
 
-**PLEASE advocate for yourself and get as much help as you need ASAP.** I am more than happy to help you when you immediately seek help, however if you are behind one to two weeks, it’s frustrating!!!!
-
-If you are behind, there is very little attention that I can give you to learn past material when we are past that point. We practically have one lesson a day on a new topic and if you don’t understand the basics of the previous material, there is little to no support I can help you with during class except to tell you to “look back in your packet.”
-
+Unlike your previous math classes, this course places a high emphasis on your ability to think logically and critically, and express that thinking clearly in writing. It is also a course that builds on itself chapter by chapter. **It is dangerous to fall behind by even two days.**
 
 ### Extra credit opportunities
 
 From time to time, there will be challenge problems on tests for extra credit that challenge you to apply your understanding.
 
-### Are there "extra" assignments?
+## ASSESSMENT POLICY
 
-No, there will not be any extra assignments because you missed out on an assessment, did not follow along in class, or did not study enough throughout the semester.
+The assessments will hold you up to the expectation of skill mastery that the AP exam also holds you up to.
 
-If you run into any verifiable sickness or other situation that prevents you from doing your best, then we can talk about other ways for you to catch up.
+The AP exam consists of:
+- 40 Multiple Choice Questions for 90 minutes (2.25 minutes per question)
+- 6 Free Response Questions for 90 minutes (15 minutes per question)
 
-## Assessment Policy
+**The typical “passing” percentage on the AP exam is around 45%.**
+Therefore, you should expect for scores in this class to be centered around that same passing percentage. 
 
-The assessments will hold you up to the expectation that the AP exam also holds you up to.  
+*To avoid people failing because of their raw score, assessment scores (i.e. tests and semester exam) will be adjusted accordingly so that around 30% or more students receive a 90% or higher on the assessment.*
 
-The AP exam consists of:  
-- 40 Multiple Choice Questions for 90 minutes **(2.25 minutes per question)**
-- 6 Free Response Questions for 90 minutes **(15 minutes per question)**
+All assessments and their respective re-take will be announced at least 2 weeks in advance.
 
-All assessments and their respective re-take will be announced at least 2 weeks in advance.  
-1. Missing the period of the test:
-    - If you miss the period of the test but are present in school, you may come in afterschool (the day of) to {{ site.room }} to take the test.
-    - If you miss the entire day, **first email me ASAP** (otherwise, I will not be expecting you) and you have only until the next school day to take it in {{ site.room }}.
-2. Accommodations:
-    - Extended time: You may continue your test in {{ site.room }} afterschool (the day of).
+You are expected to make up any missed tests at the soonest possible moment. Chang has the obligation to release test results as soon as possible and you will receive a zero if you fail to take the test in a timely manner.
 
-No extended time will be given because of **tardiness and these deadlines will be enforced strictly**. If you miss an opportunity for assessment/reassessment completely, **you will keep the current grade that you have on that standard** (*including any 0's because you forgot to take a test or fill out a form*)
+### Accommodations:
 
+Extended time: You may continue your test in H206 during lunch (the day of).
+
+No extended time will be given because of tardiness and these deadlines will be enforced strictly. 
 
 ### Retakes
 
-All retakes will be designated to be taken afterschool, during the Math 2 afterschool tutoring sessions.  
-1. You can retake up to 3 tests per semester.
-2. When it’s time for a retake, a Google Form will be posted on classroom. If you do not fill out the form by the deadline as indicated, you will not get a retake. 
-3. You much take the retake within 3 school days of the first day of the retake.
+All retakes will be designated to be taken after school.
+1. You can retake up to 2 tests per semester (total of 6 tests are administered per semester).
+2. Retake request forms are physical and must be signed by your parent/guardian and your parent/guardian may be contacted to confirm that you have told them.
+3. If you do not turn in the form by the deadline as indicated, you will not get a retake.
+4. You must take the retake within 2 school days of the first day of the retake.
+5. No last minute asks.
 
-The retake system in this class is not to be abused. If you are not doing the work in class and expect for me to pick up after what you decided not to do, you face the consequences. You will do at least decent overall if you pay attention in class, ask questions, and grapple with the concepts during class ([see the expectations](/expectations.md)). The retake is there for you to show improvement, not as a way for you to sleep through, gossip during, and/or ignore lessons.  
+If you miss an opportunity for assessment / reassessment completely, you will keep the current grade that you have on it in the gradebook.
 
-Relying on retakes means that you are behind, and students who have fell behind in the past in this course have not enjoyed their academic experience in the course.
+## A PARTING THOUGHT
 
-## A Parting Thought
+Grades and penalties aren’t the purpose of this course. I really just want you to learn. I want all of you to be successful here. 
 
-Grades and penalties aren't the purpose of this course. I really just want you to learn. I want all of you to be successful here. AP Statistics is a college level course and these policies are here to make it so. If you weren't ready for these strict rules, you should seek me out for help as soon as you see yourself slipping off. 
+AP Statistics is a college level course and this long syllabus and its policies are here to make it so that you understand that. If you weren’t ready for these strict rules, you should seek me out for help as soon as you see yourself slipping off. 
 
-If you fall behind, you will likely not recover in this class. I promise that if you put the effort and attention into this class during lessons, you will get a grade that you are satisfied with. The concepts that we encounter will be tough to understand on your own, but by doing the work that I assign, you will understand it so much better than just copying down answers and trying to follow a calculation that I did on the board.
+If you fall behind, you will likely not recover in this class. I promise that if you put the effort and attention into this class during lessons, you will get a grade that you are satisfied with. 
+
+The concepts that we encounter will be tough to understand on your own, but by doing the work that I assign, you will understand it so much better than just copying down answers and trying to follow a calculation that I did on the board.
+
+## Changes to policies
+
+Depending on circumstances, Chang may make logistical policy changes to facilitate the pacing of the course. Nothing will change with the grading scale.
+ 
+## PARENTS/GUARDIANS: 
+
+As a way of establishing communication early in the school year, I’ve required students to go over this syllabus in detail with you and have you contact me to inform me that you have reviewed this information with your student. 
+
+Please use the contact information at the top of this syllabus. Having your contact information will allow me to easily get in touch with you if I have any concerns about your student. 
+
+For your child to earn full credit, they should ensure that you include their name and period as the subject of the email. Please include the following information:
+
+1.	Your child's name and period (as the subject of the email, please)
+2.	Your name (It's not always clear from an email address!)
+3.	A phone number where you can be reached and the best times to call, and preferred means of contact.
+4.	Any contact information for another parent/guardian.
+5.	Tell me something awesome about your child!
+6.	Any additional information that you feel is relevant or important.
+7.	If you have any questions or concerns, please do not hesitate to mention them when you contact me. I’m happy to hear your input or give you feedback at any time.

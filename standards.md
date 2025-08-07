@@ -15,8 +15,6 @@ description: >-
 
 ---
 
-Refer to the [syllabus (stats.echa.ng/syllabus/)](/syllabus.md) for the grading details about these standards.
-
 ## ***SP1***{: .label .label-yellow} Attend to statistical precision.
 
 Statistically proficient students make sense of problems and strive to convey the meaning and context of their answers to a general audience. They approach problems from a scientific standpoint, understanding the problem and:

@@ -1,49 +1,54 @@
 ---
 title: Chapter 1
 name: Exploring Data
-time: Wed. 08/13 - Fri. 08/29
+time: Wed. 08/14 - Fri. 08/30
 order: 1
 ---
 
-Wed. 08/13	
+Wed. 08/14	
 : **First Day of School**{: .label}
 : **Desmos**{: .label .label-purple } Parkinsons Inference Activity
 
-Thu. 08/14	
-: **HW due M 08/18**{: .label .label-red } Making univariate categorical and quantiative graphs
+Thu. 08/15	
 : **HW due F 08/23**{: .label .label-red } Syllabus acknowledgement by parent/guardian
 : **CW pp. 2, 3**{: .label .label-purple } Categorical vs. Quantitative
 
-Fri. 08/15	
-: **HW due F 08/29**{: .label .label-red } Chapter 1 Problem Set
+Fri. 08/16	
+: **HW due F 08/23**{: .label .label-red } Problem Set 1
 : **CW pp. 3 - 5**{: .label .label-purple } Discussing misleading graphs
 : **CW p. 6**{: .label .label-purple } Two-way tables
 
-Mon. 08/18
+Mon. 08/19
 : **CW pp. 6 - 7**{: .label .label-purple } Relationships in categorical data
 
-Tue. 08/19
+Tue. 08/20
 : **CW pp. 9 - 12**{: .label .label-purple } Quantitative Displays + SOCV
 
-Wed. 08/20
-: **QUIZ**{: .label .label-green } SOCV Quiz
-
-Thu. 08/21
+Wed. 08/21
 : **CW pp. 13 - 16**{: .label .label-purple } Measures of Central Tendency and Variability
 
-Fri. 08/22
+Thu. 08/22
 : **CW pp. 17 - 20**{: .label .label-purple } Boxplots
+
+
+Fri. 08/23
+: **HW due F 08/30**{: .label .label-red } Problem Set 2
+: SOCV Scramble
 	
-Mon. 08/25
-: Review
+Mon. 08/26
+: **QUIZ**{: .label .label-green } SOCV Quiz
 
-Tue. 08/26
-: Practice
+Tue. 08/27
+: Unplanned practice / needed time for lessons
 
-Wed. 08/27
-: **HW Due**{: .label .label-red } Chapter 1 Problem Set
+Wed. 08/28
+: Unplanned practice / needed time for lessons
+
+Thu. 08/29	
+: Unplanned practice / needed time for lessons
+
+Fri. 08/30
 : **Chapter 1 Test**{: .label .label-green }
-
 
 <!-- : **Standard 2.1**{: .label .label-yellow }
 : **CW pp. 3, 4**{: .label .label-purple }
