@@ -1,38 +1,40 @@
 ---
 title: Chapter 1
 name: Exploring Data
-time: Wed. 08/13 - Fri. 08/29
+time: Wed. 08/13 - Wed. 08/27
 order: 1
 ---
 
 Wed. 08/13	
 : **First Day of School**{: .label}
+: Make a name card
 : **Desmos**{: .label .label-purple } Parkinsons Inference Activity
+: **HW due W 08/20**{: .label .label-red } Fill out survey
 
 Thu. 08/14	
-: **HW due M 08/18**{: .label .label-red } Making univariate categorical and quantiative graphs
 : **HW due F 08/23**{: .label .label-red } Syllabus acknowledgement by parent/guardian
-: **CW pp. 2, 3**{: .label .label-purple } Categorical vs. Quantitative
+: (Introduction to Statistics YouTube Video)[https://youtu.be/MXaJ7sa7q-8?feature=shared]
+: **CW pp. 4-7**{: .label .label-purple } Categorical vs. Quantitative, Misleading Graphs
 
 Fri. 08/15	
-: **HW due F 08/29**{: .label .label-red } Chapter 1 Problem Set
-: **CW pp. 3 - 5**{: .label .label-purple } Discussing misleading graphs
-: **CW p. 6**{: .label .label-purple } Two-way tables
+: **CW pp. 5-7**{: .label .label-purple } Discussing misleading graphs
+: Making stem plots
+: **HW due W 08/20**{: .label .label-red } Stem Plot Homework
 
 Mon. 08/18
-: **CW pp. 6 - 7**{: .label .label-purple } Relationships in categorical data
+: **CW pp. 8-10**{: .label .label-purple } Relationships in categorical data
 
 Tue. 08/19
-: **CW pp. 9 - 12**{: .label .label-purple } Quantitative Displays + SOCV
+: **CW pp. 11-14**{: .label .label-purple } Quantitative Displays + SOCV
 
 Wed. 08/20
-: **QUIZ**{: .label .label-green } SOCV Quiz
+: **CW pp. 15-18**{: .label .label-purple } Measures of Central Tendency and Variability
 
 Thu. 08/21
-: **CW pp. 13 - 16**{: .label .label-purple } Measures of Central Tendency and Variability
+: **QUIZ**{: .label .label-green } SOCV Quiz: individual-group mixed format
 
 Fri. 08/22
-: **CW pp. 17 - 20**{: .label .label-purple } Boxplots
+: **CW pp. 19-22**{: .label .label-purple } Boxplots
 	
 Mon. 08/25
 : Review
@@ -41,7 +43,7 @@ Tue. 08/26
 : Practice
 
 Wed. 08/27
-: **HW Due**{: .label .label-red } Chapter 1 Problem Set
+: **HW Due**{: .label .label-red } Chapter 1 Problem Set (#1-3, 6-8, 10-16)
 : **Chapter 1 Test**{: .label .label-green }
 
 
