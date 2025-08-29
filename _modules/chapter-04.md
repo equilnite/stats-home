@@ -2,7 +2,7 @@
 title: Chapter 4
 name: Designing Studies
 time: Wed. 08/27 - Wed. 09/17
-order: 1
+order: 2
 ---
 
 
