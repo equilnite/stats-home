@@ -1,100 +1,56 @@
 ---
-title: Chapter 1
-name: Exploring Data
-time: Wed. 08/13 - Wed. 08/27
+title: Chapter 4
+name: Designing Studies
+time: Wed. 08/27 - Wed. 09/17
 order: 1
 ---
 
-Wed. 08/13	
-: **First Day of School**{: .label}
-: Make a name card
-: **Desmos**{: .label .label-purple } Parkinsons Inference Activity
-: **HW due W 08/20**{: .label .label-red } Fill out survey
 
-Thu. 08/14	
-: **HW due F 08/23**{: .label .label-red } Syllabus acknowledgement by parent/guardian
-: (Introduction to Statistics YouTube Video)[https://youtu.be/MXaJ7sa7q-8?feature=shared]
-: **CW pp. 4-7**{: .label .label-purple } Categorical vs. Quantitative, Misleading Graphs
+Mon. 09/01
+: No School, Labor day
 
-Fri. 08/15	
-: **CW pp. 5-7**{: .label .label-purple } Discussing misleading graphs
-: Making stem plots
-: **HW due W 08/20**{: .label .label-red } Stem Plot Homework
+Tue. 09/02
+: **CW pp. 27, 28**{: .label .label-purple } Practice
 
-Mon. 08/18
-: **CW pp. 8-10**{: .label .label-purple } Relationships in categorical data
+Wed. 09/03
+: **CW pp. 29, 30, 31**{: .label .label-purple } How Much Do Fans Love BTS? Day 1
 
-Tue. 08/19
-: **CW pp. 11-14**{: .label .label-purple } Quantitative Displays + SOCV
+Thu. 09/04
+: **CW pp. 32, 33, 34**{: .label .label-purple } How Much Do Fans Love BTS? Day 2	
 
-Wed. 08/20
-: **CW pp. 15-18**{: .label .label-purple } Measures of Central Tendency and Variability
-
-Thu. 08/21
-: **QUIZ**{: .label .label-green } SOCV Quiz: individual-group mixed format
-
-Fri. 08/22
-: **CW pp. 19-22**{: .label .label-purple } Boxplots
+Fri. 09/05	
+: **Group Quiz**{: .label .label-green } Section 4.1
 	
-Mon. 08/25
+Mon. 09/08
+: **CW pp. 35, 36, 37, 38**{: .label .label-purple } Gender Bias in Hiring
+
+Tue. 09/09
+: **CW pp. 39, 40, 41, 42**{: .label .label-purple } Gender Bias in Hiring
+
+Wed. 09/10
+: Chapter 1 Retake
+
+Thu. 09/11	
+: **CW pp. 43. 44**{: .label .label-purple } Wrapping up
+
+Fri. 09/12
+: **Group Quiz**{: .label .label-green } Section 4.2
+		
+Mon. 09/15
 : Review
 
-Tue. 08/26
+Tue. 09/16
 : Practice
 
-Thu. 08/28
-: **HW Due**{: .label .label-red } Chapter 1 Problem Set (#1-3, 6-8, 10-16)
-: **Chapter 1 Test**{: .label .label-green }
+Wed. 09/17
+: Chapter 4 Test
+
+<!--	
+
+Thu. 09/18	
+Fri. 09/19	
 
 
-<!-- : **Standard 2.1**{: .label .label-yellow }
-: **CW pp. 3, 4**{: .label .label-purple }
-: **Group Quiz**{: .label .label-green } Section 2.1
-: **Test Retake**{: .label .label-red} Chapter 4 Retake
-: **No School**{: .label } Staff PD Day
-: Practice
-: **Chapter 2 Test**{: .label .label-green }
-: **Chapter 2 Retake on Wed, 10/18**{: .label .label-red } -->
-
-<!--
-Wed. 08/14	First Day of School
-Thu. 08/15	
-Fri. 08/16	
-	
-Mon. 08/19	
-Tue. 08/20	
-Wed. 08/21	
-Thu. 08/22	
-Fri. 08/23	
-	
-	
-Mon. 08/26	
-Tue. 08/27	
-Wed. 08/28	
-Thu. 08/29	
-Fri. 08/30	
-	
-	
-Mon. 09/02	No School, Labor day
-Tue. 09/03	
-Wed. 09/04	
-Thu. 09/05	
-Fri. 09/06	
-	
-	
-Mon. 09/09	
-Tue. 09/10	
-Wed. 09/11	
-Thu. 09/12	
-Fri. 09/13	
-	
-	
-Mon. 09/16	
-Tue. 09/17	
-Wed. 09/18	
-Thu. 09/19	
-Fri. 09/20	
-	
 	
 Mon. 09/23	
 Tue. 09/24	
