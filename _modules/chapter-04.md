@@ -28,10 +28,10 @@ Tue. 09/09
 : **CW pp. 39, 40, 41, 42**{: .label .label-purple } Gender Bias in Hiring
 
 Wed. 09/10
-: Chapter 1 Retake
+: **CW pp. 43. 44**{: .label .label-purple } Wrapping up
 
 Thu. 09/11	
-: **CW pp. 43. 44**{: .label .label-purple } Wrapping up
+: Chapter 1 Retake
 
 Fri. 09/12
 : **Group Quiz**{: .label .label-green } Section 4.2
