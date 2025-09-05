@@ -29,9 +29,10 @@ Tue. 09/09
 
 Wed. 09/10
 : **CW pp. 43. 44**{: .label .label-purple } Wrapping up
+: **Retake form due** Physical, signed by parent/guardians
 
 Thu. 09/11	
-: Chapter 1 Retake
+: **Chapter 1 Retake**{: .label .label-red }
 
 Fri. 09/12
 : **Group Quiz**{: .label .label-green } Section 4.2
@@ -43,7 +44,8 @@ Tue. 09/16
 : Practice
 
 Wed. 09/17
-: Chapter 4 Test
+: **Chapter 4 Test**{: .label .label-green }
+: **HW Due**{: .label .label-red } Chapter 4 Problem Set (all)
 
 <!--	
 
