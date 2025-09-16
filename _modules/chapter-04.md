@@ -7,7 +7,7 @@ order: 2
 
 
 Mon. 09/01
-: No School, Labor day
+: **No School**{: .label .label-blue } Labor day
 
 Tue. 09/02
 : **CW pp. 27, 28**{: .label .label-purple } Practice
@@ -29,7 +29,7 @@ Tue. 09/09
 
 Wed. 09/10
 : **CW pp. 43. 44**{: .label .label-purple } Wrapping up
-: **Retake form due** Physical, signed by parent/guardians
+: **Chapter 1 Retake form due****{: .label .label-red } Physical, signed by parent/guardians
 
 Thu. 09/11	
 : **Chapter 1 Retake**{: .label .label-red }
@@ -38,10 +38,10 @@ Fri. 09/12
 : **Group Quiz**{: .label .label-green } Section 4.2
 		
 Mon. 09/15
-: Review
+: **CW**{: .label .label-purple } Review
 
 Tue. 09/16
-: Practice
+: **CW**{: .label .label-purple } Practice
 
 Wed. 09/17
 : **Chapter 4 Test**{: .label .label-green }

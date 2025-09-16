@@ -7,18 +7,18 @@ order: 1
 
 Wed. 08/13	
 : **First Day of School**{: .label}
-: Make a name card
+: **CW**{: .label .label-purple } Make a name card
 : **Desmos**{: .label .label-purple } Parkinsons Inference Activity
 : **HW due W 08/20**{: .label .label-red } Fill out survey
 
 Thu. 08/14	
 : **HW due F 08/23**{: .label .label-red } Syllabus acknowledgement by parent/guardian
-: (Introduction to Statistics YouTube Video)[https://youtu.be/MXaJ7sa7q-8?feature=shared]
+: **CW**{: .label .label-purple } [Introduction to Statistics YouTube Video](https://youtu.be/MXaJ7sa7q-8?feature=shared])
 : **CW pp. 4-7**{: .label .label-purple } Categorical vs. Quantitative, Misleading Graphs
 
 Fri. 08/15	
 : **CW pp. 5-7**{: .label .label-purple } Discussing misleading graphs
-: Making stem plots
+: **CW**{: .label .label-purple }Making stem plots
 : **HW due W 08/20**{: .label .label-red } Stem Plot Homework
 
 Mon. 08/18
@@ -37,10 +37,10 @@ Fri. 08/22
 : **CW pp. 19-22**{: .label .label-purple } Boxplots
 	
 Mon. 08/25
-: Review
+: **CW**{: .label .label-purple } Review
 
 Tue. 08/26
-: Practice
+: **CW**{: .label .label-purple } Practice
 
 Thu. 08/28
 : **HW Due**{: .label .label-red } Chapter 1 Problem Set (#1-3, 6-8, 10-16)
