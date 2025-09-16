@@ -27,10 +27,10 @@ Thu. 09/25
 : **HW Reach**{: .label .label-yellow } Everything
 
 Fri. 09/26	
-: **CW**{: .label .label-purple } Practice
-	
-Mon. 09/29
 : **Group Quiz**{: .label .label-green } Section 2.2
+
+Mon. 09/29
+: **CW**{: .label .label-purple } Review, group quizzes passed back
 
 Tue. 09/30
 : **CW**{: .label .label-purple } Practice
@@ -38,7 +38,7 @@ Tue. 09/30
 Wed. 10/01
 : **Chapter 2 Test**{: .label .label-green }
 : **Chapter 2 Problem Set Due**{: .label .label-red } All (separate packet)
-: **Chapter 4 Retake form due****{: .label .label-red } Physical, signed by parent/guardians
+: **Chapter 4 Retake form due**{: .label .label-red } Physical, signed by parent/guardians
 
 Thu. 10/02
 : **CW**{: .label .label-purple } Rest / Study Day

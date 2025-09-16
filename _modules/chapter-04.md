@@ -29,7 +29,7 @@ Tue. 09/09
 
 Wed. 09/10
 : **CW pp. 43. 44**{: .label .label-purple } Wrapping up
-: **Chapter 1 Retake form due****{: .label .label-red } Physical, signed by parent/guardians
+: **Chapter 1 Retake form due**{: .label .label-red } Physical, signed by parent/guardians
 
 Thu. 09/11	
 : **Chapter 1 Retake**{: .label .label-red }
