@@ -1,8 +1,8 @@
 ---
 title: Chapter 2
-name: Designing Studies
+name: Normal Distributions
 time: Thu. 09/18 - Wed. 10/01
-order: 2
+order: 3
 ---
 
 Thu. 09/18
