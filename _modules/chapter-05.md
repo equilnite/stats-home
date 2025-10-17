@@ -1,7 +1,7 @@
 ---
 title: Chapter 5
 name: Probability
-time: Oct. 06 - Oct. 22
+time: Oct. 07 - Oct. 23
 order: 4
 ---
 
@@ -55,10 +55,10 @@ Fri. 10/17
 : Practice
 
 Mon. 10/20
+: **Group Quiz**{: .label .label-green } Sections 5.2 - 5.3
 : Practice
 
 Tue. 10/21
-: **Group Quiz**{: .label .label-green } Sections 5.2 - 5.3
 : Practice
 
 Wed. 10/22
