@@ -1,7 +1,7 @@
 ---
 title: Chapter 6
 name: Random Variables
-time: Oct 24 - Nov 14
+time: Oct 24 - Nov 19
 order: 5
 ---
 
@@ -17,10 +17,10 @@ order: 5
 
 
 Fri. 10/24
-:**CW pp. 42, 43**{: .label .label-purple } How many children are in your family?
+: **CW pp. 42, 43**{: .label .label-purple } How many children are in your family?
 
 Mon. 10/27
-:**CW pp. 44, 45**{: .label .label-purple } How much do you get paid?
+: **CW pp. 44, 45**{: .label .label-purple } How much do you get paid?
 
 Tue. 10/28
 : **CW pp. 46, 47**{: .label .label-purple } Is it time for a raise?
@@ -63,6 +63,12 @@ Wed. 11/12
 
 Thu. 11/13
 : **Chapter 5 Retake**{: .label .label-red}
+
+Mon. 11/17
+: Review Group Quizzes
+
+Tues. 11/18
+: Practice
 
 Wed. 11/19
 : **Chapter 6 Test**{: .label .label-green}
