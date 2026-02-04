@@ -70,10 +70,15 @@ Wed. 02/11
 Thu. 02/12
 : Review
 
+Fri. 02/13
+: **No School**{: .label } Lincoln's Birthday
+
+Mon. 02/16
+: **No School**{: .label } Presidents' Day
+
 Wed. 02/18
 : **Chapter 9 Test**{: .label .label-green }
 : **# 16-30 DUE**{: .label .label-red } 
 
-Fri. 02/14	
-: **No School**{: .label } Lincoln's Birthday
+
 	
