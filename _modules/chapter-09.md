@@ -14,10 +14,6 @@ order: 9
 : **Chapter 2 Test**{: .label .label-green }
 : **Chapter 2 Retake on Wed, 10/18**{: .label .label-red } -->
 
-
-
-	
-	
 Mon. 01/26	
 : **No School**{: .label } Staff PD Day
 
