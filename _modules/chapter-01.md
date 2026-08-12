@@ -1,50 +1,50 @@
 ---
 title: Chapter 1
 name: Exploring Data
-time: Wed. 08/13 - Wed. 08/27
+time: Wed. 08/12 - Wed. 08/26
 order: 1
 ---
 
-Wed. 08/13	
+Wed. 08/12	
 : **First Day of School**{: .label}
 : **CW**{: .label .label-purple } Make a name card
 : **Desmos**{: .label .label-purple } Parkinsons Inference Activity
-: **HW due W 08/20**{: .label .label-red } Fill out survey
+: **HW due F 8/14**{: .label .label-red } Fill out survey
 
-Thu. 08/14	
+Thu. 08/13	
 : **HW due F 08/23**{: .label .label-red } Syllabus acknowledgement by parent/guardian
 : **CW**{: .label .label-purple } [Introduction to Statistics YouTube Video](https://youtu.be/MXaJ7sa7q-8?feature=shared])
 : **CW pp. 4-7**{: .label .label-purple } Categorical vs. Quantitative, Misleading Graphs
 
-Fri. 08/15	
-: **CW pp. 5-7**{: .label .label-purple } Discussing misleading graphs
-: **CW**{: .label .label-purple }Making stem plots
-: **HW due W 08/20**{: .label .label-red } Stem Plot Homework
-
-Mon. 08/18
+Fri. 08/14	
 : **CW pp. 8-10**{: .label .label-purple } Relationships in categorical data
 
-Tue. 08/19
+Mon. 08/17
 : **CW pp. 11-14**{: .label .label-purple } Quantitative Displays + SOCV
 
-Wed. 08/20
+Tue. 08/18
+: **QUIZ**{: .label .label-green } Bar graphs Quiz
+
+Wed. 08/19
 : **CW pp. 15-18**{: .label .label-purple } Measures of Central Tendency and Variability
 
-Thu. 08/21
-: **QUIZ**{: .label .label-green } SOCV Quiz: individual-group mixed format
-
-Fri. 08/22
+Thu. 08/20
 : **CW pp. 19-22**{: .label .label-purple } Boxplots
-	
-Mon. 08/25
-: **CW**{: .label .label-purple } Review
 
-Tue. 08/26
+Fri. 08/21
+: **CW**{: .label .label-purple } Review
+	
+Mon. 08/24
+: **QUIZ**{: .label .label-green } CUSSing Quiz
+
+Tue. 08/25
 : **CW**{: .label .label-purple } Practice
 
-Thu. 08/28
+
+Wed. 08/26
 : **HW Due**{: .label .label-red } Chapter 1 Problem Set (#1-3, 6-8, 10-16)
 : **Chapter 1 Test**{: .label .label-green }
+
 
 
 <!-- : **Standard 2.1**{: .label .label-yellow }
