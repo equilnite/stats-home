@@ -36,10 +36,10 @@ These concepts and tools can be used to investigate questions such as:
 
 Here are the topics you should expect to cover by quarter.
 
-- Quarter 1: Chapters 1, 4, 2 (Exploring Data, Designing Studies, and Modeling Distributions of Data)
-- Quarter 2: Chapters 5, 6, and 7 (Probability, Random Variables, Sampling Distributions)
-- Quarter 3: Chapters 8, 9, and 10 (Confidence Intervals, Hypothesis Tests, Inference for Two Populations)
-- Quarter 4: Chapters 11, 3, and 12 (Distributions of Categorical Data, Linear Regression)
+Quarter 1: Chapters 1, 4, 5 (Exploring Data, Designing Studies, and Modeling Distributions of Data)
+Quarter 2: Chapters 6, 2, and 7 (Probability, Random Variables, Sampling Distributions)
+Quarter 3: Chapters 8, 9, and 10 (Confidence Intervals, Hypothesis Tests, Inference for Two Populations)
+Quarter 4: Chapters 11 and 3 (Distributions of Categorical Data, Linear Regression)
 
 ### MATERIALS NEEDED
 
@@ -53,7 +53,8 @@ Here are the topics you should expect to cover by quarter.
 ### RESOURCES
 
 - **DO NOT USE GOOGLE FOR EVERYTHING, especially depending on AI**. There are many ways to do statistics, and *you are learning a specific way to do statistics* by being in this class.
-- **Your textbook is your main resource**. Things that you find on the internet, unless specifically geared towards AP Statistics, may not be the correct way to do it.
+- **Your textbook is your main resource**. Things that you find on the internet, unless specifically geared towards AP Statistics, may not be the correct way to do it. There are many ways to do statistics, and AP Statistics is looking for a specific approach.
+    * NOTE: Due to changes in the AP curriculum on part of Collegeboard, our textbook does not accurately reflect the type of free response questions that you will be tested on. However, it still reflects the same ways of working through problems.
 - I will regularly update [stats-notes.echa.ng] with notes from each topic that we encounter.
 - Students in the past have found office hours and Khan Academy really helpful
  
@@ -74,37 +75,41 @@ Grades will be assigned on a traditional scale:
 
 ### Components
 
-**Homework and Classwork: 30%**
+**Homework and Classwork: 15%**
 
-> Homework: Assigned from back of packet; problems due after the completion of each packet.
->
-> Classwork: Checks for work assigned for class time and random packet checks for completion of notes.
->
-> It is your responsibility to monitor the scores put in Infinite Campus. If you miss the day of a packet check or work, you are expected to email / talk to Chang immediately and show her the relevant completed pages in the packet.
+> Expected homework commitment is 20-40 minutes every two days.
 
-**Quizzes: 15%**
+**Quizzes and Projects: 20%**
 
 > At most one quiz a week, based on skills from classwork. The worst quiz will be dropped from your grade per semester.
 
-**Tests: 35%**
+**Tests: 40%**
 
-> One test per chapter, for a total of twelve tests within eight months. The single worst test will be dropped from your grade per semester.
+> One test per chapter, for a total of twelve tests within nine months.
+>
+> The single worst test will be replaced by the average of your other tests. You can retake one test up to 80%.
 
-**Semester Exam: 20%**
+**Semester Exam: 25%**
 
 > A cumulative exam of the material covered over the semester. 
-Are there “extra” assignments?
->
-> There are no extra assignments for you to do to make up a grade or to raise your grade.
+
+
+### Are there “extra” assignments?
+
+No, there will not be any extra assignments because you missed out on an assessment, did not follow along in class, or did not study enough throughout the semester.
+
+If you run into any verifiable sickness or other situation that prevents you from doing your best, then we can talk about other ways for you to catch up.
+
 
 
 ### Keep up in class
 
-The *amount of content* in this course makes this course as *challenging* as taking Calculus. You may find Calculus harder because of your Algebra skills, but that is the main barrier for Calculus. Although AP Statistics is more accessible, it does not mean that it is easier than Calculus. 
+The amount of content in this course makes this course as **challenging as taking Calculus**. You may struggle in Calculus because of your Algebra skills, but that is the main barrier for Calculus. Although AP Statistics is more accessible, it does not mean that it is easier than Calculus. *Whether one course is more challenging than the other depends on the person!* 
 
-**Whether one course is more challenging than the other depends on the person!**
+Not much prior mathematical knowledge is required for success in this course, but it is a very challenging course that places high emphasis on your ability to think logically and critically, and express that thinking clearly in writing. It is also a course that builds on itself chapter by chapter. For example, Ch 8 requires you to be on top with knowledge and skills from Ch 2, 4, 7. And Ch 8, 9, 10, 11, and 12 keep introducing new, different methods to evaluate claims for different types of data. So staying current with your homework, and being consistent with your effort in general, is extremely important. If you don’t keep up in class, you will struggle with future material.
 
-Unlike your previous math classes, this course places a high emphasis on your ability to think logically and critically, and express that thinking clearly in writing. It is also a course that builds on itself chapter by chapter. **It is dangerous to fall behind by even two days.**
+**PLEASE advocate for yourself and get as much help as you need ASAP.** I am more than happy to help you when you immediately seek help, however if you are behind one to two weeks, it’s frustrating!!!!
+
 
 ### Extra credit opportunities
 
@@ -115,34 +120,44 @@ From time to time, there will be challenge problems on tests for extra credit th
 The assessments will hold you up to the expectation of skill mastery that the AP exam also holds you up to.
 
 The AP exam consists of:
-- 40 Multiple Choice Questions for 90 minutes (2.25 minutes per question)
-- 6 Free Response Questions for 90 minutes (15 minutes per question)
+- 42 Multiple Choice Questions for 90 minutes (2.15 minutes per question)
+- 4 Free Response Questions for 90 minutes (22.5 minutes per question)
+- And historically, the passing threshold is getting around 45% of questions correct.
 
-**The typical “passing” percentage on the AP exam is around 45%.**
-Therefore, you should expect for scores in this class to be centered around that same passing percentage. 
+In this class, the multiple choice will be curved to account for the historical 45% passing threshold. However, free response questions will not be curved since they will be extremely similar to the same problems you do for practice.
 
-*To avoid people failing because of their raw score, assessment scores (i.e. tests and semester exam) will be adjusted accordingly so that around 30% or more students receive a 90% or higher on the assessment.*
+### Missing the period of the test
 
-All assessments and their respective re-take will be announced at least 2 weeks in advance.
+If you miss the period of the test but are present in school, you may come in during lunch or after school (the day of) to H206 to take the test.
 
-You are expected to make up any missed tests at the soonest possible moment. Chang has the obligation to release test results as soon as possible and you will receive a zero if you fail to take the test in a timely manner.
+If you miss the entire day, first email me ASAP (otherwise, I will not be expecting you) and *you have only until the next school day to take it in H206.*
+
 
 ### Accommodations:
 
-Extended time: You may continue your test in H206 during lunch (the day of).
+Extended time: You may continue your test in H206 afterschool (the day of).
 
-No extended time will be given because of tardiness and these deadlines will be enforced strictly. 
+No extended time will be given because of unexcused tardiness and these deadlines will be enforced strictly. 
+
 
 ### Retakes
 
-All retakes will be designated to be taken after school.
-1. You can retake up to 2 tests per semester (total of 6 tests are administered per semester).
-2. Retake request forms are physical and must be signed by your parent/guardian and your parent/guardian may be contacted to confirm that you have told them.
-3. If you do not turn in the form by the deadline as indicated, you will not get a retake.
-4. You must take the retake within 2 school days of the first day of the retake.
-5. No last minute asks.
+All retakes will be designated to be taken after school and will occur near the **end of each semester.**
 
-If you miss an opportunity for assessment / reassessment completely, you will keep the current grade that you have on it in the gradebook.
+1. **You can retake up to 1 test per semester. The score will be limited to up to 80%.**
+2. You must meet Chang in-person to view your original test before taking the retake
+3. Physical retake requests must be **signed by your parent/guardian (regardless of age).**
+If you do not turn in the form by the deadline as indicated, you will not get a retake.
+
+If you miss an opportunity for assessment / reassessment completely, you will keep the current grade that you have on it (including any 0’s because you forgot to take a test or fill out a form)
+
+### Quiz Corrections
+
+You may come in to Chang’s office hours (Monday and Wednesday in H206 afterschool) to make corrections to your quizzes for an up to 80% score. 
+
+Make sure to have a copy of your quiz (either digital or physical) when you come in.
+
+Chang will not answer questions while you are correcting, but will answer any questions before you correct.
 
 ## A PARTING THOUGHT
 
