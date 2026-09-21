@@ -9,41 +9,33 @@ Wed. 08/12
 : **First Day of School**{: .label}
 : **CW**{: .label .label-purple } Make a name card
 : **Desmos**{: .label .label-purple } Parkinsons Inference Activity
-: **HW due F 8/14**{: .label .label-red } Fill out survey
+: **HW due F 8/21**{: .label .label-red } Fill out survey
 
 Thu. 08/13	
 : **HW due F 08/23**{: .label .label-red } Syllabus acknowledgement by parent/guardian
 : **CW**{: .label .label-purple } [Introduction to Statistics YouTube Video](https://youtu.be/MXaJ7sa7q-8?feature=shared])
-: **CW pp. 4-7**{: .label .label-purple } Categorical vs. Quantitative, Misleading Graphs
+: **CW pp. 4-6**{: .label .label-purple } Categorical vs. Quantitative, Misleading Graphs
 
 Fri. 08/14	
-: **CW pp. 8-10**{: .label .label-purple } Relationships in categorical data
+: **CW pp. 7-9**{: .label .label-purple } Relationships in categorical data
 
 Mon. 08/17
-: **CW pp. 11-14**{: .label .label-purple } Quantitative Displays + SOCV
+: **CW pp. 10-13**{: .label .label-purple } Quantitative Displays + CUSS
 
 Tue. 08/18
-: **QUIZ**{: .label .label-green } Bar graphs Quiz
+: **CW pp. 14-17**{: .label .label-purple } Measures of Central Tendency and Variability
 
 Wed. 08/19
-: **CW pp. 15-18**{: .label .label-purple } Measures of Central Tendency and Variability
+: **CW pp. 19-22**{: .label .label-purple } Boxplots and Outliers
 
 Thu. 08/20
-: **CW pp. 19-22**{: .label .label-purple } Boxplots
+: **CW**{: .label .label-purple } Review
 
 Fri. 08/21
-: **CW**{: .label .label-purple } Review
+: **QUIZ**{: .label .label-green } Quiz
 	
 Mon. 08/24
-: **QUIZ**{: .label .label-green } CUSSing Quiz
-
-Tue. 08/25
 : **CW**{: .label .label-purple } Practice
-
-
-Wed. 08/26
-: **HW Due**{: .label .label-red } Chapter 1 Problem Set (#1-3, 6-8, 10-16)
-: **Chapter 1 Test**{: .label .label-green }
 
 
 
