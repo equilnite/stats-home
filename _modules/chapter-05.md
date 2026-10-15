@@ -35,7 +35,6 @@ Fri. 09/25
 
 Mon. 09/28
 : **CW pp. 17, 18**{: .label .label-purple } Pair of Aces or a pair of Kings?
-: **HW**{: .label .label-yellow } # 1 to 8
 
 Tue. 09/29
 : **CW pp. 18, 19, 20, 21, 22, 23, 24**{: .label .label-purple } Practice
@@ -46,5 +45,5 @@ Wed. 09/30
 Thu. 10/01
 : Review
 
-Wed. 10/07
+Fri. 10/02
 : **Chapter 5 Test**{: .label .label-green}
